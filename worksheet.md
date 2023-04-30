@@ -5,7 +5,7 @@ Sarah gets 2x apples + 5x for friends, 23/7x, x = 3 remainder 2.
 
 ### A store is offering a 25% discount on a jacket that originally costs $120. The store is also offering another 20% discount on pants that cost half of the jacket.  Jane has $200. How much will she have after buying both the jacket and the pants?
 
-200-.75*120-.8*60=200-90-48 = 138
+200-.75*120-.8*60=200-90-48 = 62
 
 ### A recipe calls for 1/2 cup of sugar. John wants to make half of the recipe, but also another recipe which will take three times as much sugar as full first recipe.  If John only has enough sugar to make the second recipe in full but still wants to make half of the first recipe, what fraction of the second recipe can John make?
 
@@ -31,7 +31,7 @@ d1 + 2d1 = 20, d1 = 20/3
 
 3
 
-### TThere are 2.54 cm in an inch. How many inches are in three lengths added together, where the first length is two times the second length which is three times as long as the third  length which is 5.08 cm
+### There are 2.54 cm in an inch. How many inches are in three lengths added together, where the first length is two times the second length which is three times as long as the third  length which is 5.08 cm
 
 2 + 6 + 12 = 20
 
@@ -52,7 +52,7 @@ d1 + 2d1 = 20, d1 = 20/3
 
 ### In a class of 14 students with 8 girls and 6 boys, a committee of 4 students is to be chosen where there must be an equal number of boys and girls on each committee. How many different ways can the committee be formed?
 
-8c2*6c2=(8*7/2)*(6*5/2)=280+140=420
+8C2*6C2=(8*7/2)*(6*5/2)=280+140=420
 
 
 ### A farmer has a rectangular plot of land that measures 200 meters by 400 meters. He wants to divide the plot into smaller equal-sized square sections. Each square section must have the highest side length that is a power of 2. How many square sections will there be in total?   
