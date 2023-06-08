@@ -1,6 +1,6 @@
 I am skeptical of Grusch, because when he talks he doesn't caveat carefully about what he knows to be true versus what he's verified personally.  He also claims to want to be an 'opinion leader'.  
 
-But I'm also fascinating the by the chorus of reaonsably credible voices supporting him and/or his claims.  
+But I'm also fascinated by the chorus of reaonsably credible voices supporting him and/or his claims.  
 
 For that reason, I am keeping an updated list of folks who vouch for either David, his claims, or both.
 
@@ -18,4 +18,5 @@ For that reason, I am keeping an updated list of folks who vouch for either Davi
 | Additional Voices     |         | If there are any additional voices missing from the list, they will be added here                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
 I believe most presidents have been circumspect in their denials around this.  Considering how often they lie to get elected though, not sure it's relevant either way. Carter is in hospice, and he once did promise that he would get the truth out to Americans, but walked it back after getting elected. https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident
-If I am missing anyone here, let me know.  I'll try to keep it updated as more voices show up.
+
+If I am missing anyone here, let me know in issues.  I'll try to keep it updated as more voices show up.
