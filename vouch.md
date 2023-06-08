@@ -1,6 +1,6 @@
 I am skeptical of Grusch, because when he talks he doesn't caveat carefully about what he's been told is true versus what he's verified personally.  He also claims to want to be an 'opinion leader'.  
 
-But I'm also fascinated by the chorus of reaonsably credible voices supporting him and/or his claims.  
+But I'm also fascinated by the chorus of reasonably credible voices supporting him and/or his claims.  
 
 For that reason, I am keeping an updated list of folks who vouch for either David, his claims, or both.
 
