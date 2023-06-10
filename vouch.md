@@ -52,3 +52,5 @@ Scenarios:
 I roughly estimate about 50%, 30%, and 20%. It would be 60%, 35%, 5% if not for the highly credible voices that seem to be vouching for it.
 
 It's worth noting that in the newsnation interviews, David Grusch expressed 'i thought it was totally nuts'.  If there is evidence that prior to the task force he had a bias of believing in UFOs, this would be a serious contradiction to that important claim of impartiality.
+
+It's also worth noting that [recent evidence has shown at least 100B planets](https://youtu.be/uGSAdNAWByk?t=212) in the Milky Way.  This would mean aliens are likely, with the only debate as to whether they can make it to our planet.  Such evidence indicates that we need to be more proactive about ensuring that aliens are not already here, and shifting the culture and burden of proof to the DoD to prove that aliens are not here, would be one way of doing that.  
