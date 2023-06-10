@@ -34,17 +34,16 @@ Folks not included because of concerns about credibility:
 
 Scenarios:
 
-Here's the Markdown code for the nested list you provided:
-
 1. David is telling the truth, but some combination of the following
    1. He misunderstood / misjudged some of his sources
    2. Some of his sources are confabulating, but not purposely and misunderstood what they saw
    3. Some of his sources are purposely confabulating for reasons of
       1. Supporting their reputations or others in ufology
       2. trying to undermine trust in government, whether criminal conspiracy or just individual actions
-2. David is trying to create a career for himself in the industry of ufology/undermine trust in govt and has stretched the truth
-   1. Stretched it by lying about how reliable he thinks his sources are
-   2. Stretched it by personally fabricating / purposely misunderstanding sources of information
+2. David strethed the truth around how credible his sources were or fabricated sources, for any number of reasons
+   1. Trying to create a career for himself in the industry of ufology
+   2. Trying to expose UAP programs that are everything he says they are, just not non human
+   3. Try to undermine trust in government
 3. David is telling the truth and there are non-human craft
 
 I roughly estimate about 50%, 30%, and 20%. It would be 60%, 35%, 5% if not for the highly credible voices that seem to be vouching for it.
