@@ -1,4 +1,4 @@
-Original thedebrief:  "INTELLIGENCE OFFICIALS SAY U.S. HAS RETRIEVED CRAFT OF NON-HUMAN ORIGIN"  https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+Original the debrief article:  "INTELLIGENCE OFFICIALS SAY U.S. HAS RETRIEVED CRAFT OF NON-HUMAN ORIGIN"  https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
 NewsNation interviews with David Grusch / Whistleblower - https://www.youtube.com/@NewsNation/search?query=ufo%20whistleblower
 
 
