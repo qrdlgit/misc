@@ -39,12 +39,14 @@ Scenarios:
    1. He misunderstood / misjudged some of his sources
    2. Some of his sources are confabulating, but not purposely and misunderstood what they know/saw
    3. Some of his sources are purposely confabulating for reasons of
-      1. Supporting their reputations or others in ufology
-      2. trying to undermine trust in government, whether criminal conspiracy or just individual actions
+      1. Trying to shift the burden of proof to the DoD that aliens don't exist
+      2. Supporting their reputations or others in ufology
+      3. trying to undermine trust in government, whether criminal conspiracy or just individual actions
 2. David stretched the truth around how credible his sources were or fabricated sources, for any number of reasons
    1. Trying to create a career for himself in the industry of ufology
-   2. Trying to expose UAP programs that are everything he says they are, just not non human
-   3. Try to undermine trust in government
+   2. Trying to shift the burden of proof to the DoD that aliens don't exist
+   3. Trying to expose UAP programs that are everything he says they are, just not non human
+   4. Try to undermine trust in government
 3. David is telling the truth and there are non-human craft
 
 I roughly estimate about 50%, 30%, and 20%. It would be 60%, 35%, 5% if not for the highly credible voices that seem to be vouching for it.
