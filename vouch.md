@@ -36,7 +36,7 @@ Scenarios:
 
 1. David is telling the truth, but some combination of the following
    1. He misunderstood / misjudged some of his sources
-   2. Some of his sources are confabulating, but not purposely and misunderstood what they saw
+   2. Some of his sources are confabulating, but not purposely and misunderstood what they know/saw
    3. Some of his sources are purposely confabulating for reasons of
       1. Supporting their reputations or others in ufology
       2. trying to undermine trust in government, whether criminal conspiracy or just individual actions
@@ -48,4 +48,4 @@ Scenarios:
 
 I roughly estimate about 50%, 30%, and 20%. It would be 60%, 35%, 5% if not for the highly credible voices that seem to be vouching for it.
 
-It's worth noting that in the newsnation interviews, David Grusch expressed 'i thought it was totally nuts'.  If there is evidence that prior to the task force he had a bias of believing in UFOs, this would be a serious contradiction to that important claim.
+It's worth noting that in the newsnation interviews, David Grusch expressed 'i thought it was totally nuts'.  If there is evidence that prior to the task force he had a bias of believing in UFOs, this would be a serious contradiction to that important claim of impartiality.
