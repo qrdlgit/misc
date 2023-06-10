@@ -1,4 +1,8 @@
-I am skeptical of Grusch, because when he talks he doesn't caveat carefully about what he's been told is true versus what he's verified personally.  He also claims to want to be an 'opinion leader'.  
+Original thedebrief:  "INTELLIGENCE OFFICIALS SAY U.S. HAS RETRIEVED CRAFT OF NON-HUMAN ORIGIN"  https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+NewsNation interviews with David Grusch / Whistleblower - https://www.youtube.com/@NewsNation/search?query=ufo%20whistleblower
+
+
+I am skeptical of David Grusch, because when he talks he doesn't caveat carefully about what he's been told is true versus what he's verified personally.  He also claims to want to be an 'opinion leader'.  
 
 But I'm also fascinated by the chorus of reasonably credible voices supporting him and/or his claims.  
 
@@ -27,3 +31,22 @@ Folks not included because of concerns about credibility:
 |-----------------------|---------|-----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Luis Elizondo         | David/Claim | Former director of the now defunct Advanced Aerospace Threat Identification Program associated with the Pentagon UFO videos (Vouched by Harry Reid)            | [HuffPost](https://www.huffpost.com/entry/luis-elizondo-ufo-pentagon_n_5a388debe4b0860bf4aa9a9d)  [Wikipedia](https://en.wikipedia.org/wiki/Luis_Elizondo)                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | Garry Nolan     | Claim | Stanford Professor, on partial leave | [vice](https://www.vice.com/en/article/n7nzkq/stanford-professor-garry-nolan-analyzing-anomalous-materials-from-ufo-crashes) [stanford](https://profiles.stanford.edu/garry-nolan) |
+
+Scenarios:
+
+Here's the Markdown code for the nested list you provided:
+
+1. David is telling the truth, but some combination of the following
+   1. He misunderstood / misjudged some of his sources
+   2. Some of his sources are confabulating, but not purposely and misunderstood what they saw
+   3. Some of his sources are purposely confabulating for reasons of
+      1. Supporting their reputations or others in ufology
+      2. trying to undermine trust in government, whether criminal conspiracy or just individual actions
+2. David is trying to create a career for himself in the industry of ufology/undermine trust in govt and has stretched the truth
+   1. Stretched it by lying about how reliable he thinks his sources are
+   2. Stretched it by personally fabricating / purposely misunderstanding sources of information
+3. David is telling the truth and there are non-human craft
+
+I roughly estimate about 50%, 30%, and 20%. It would be 60%, 35%, 5% if not for the highly credible voices that seem to be vouching for it.
+
+It's worth noting that in the newsnation interviews, David Grusch expressed 'i thought it was totally nuts'.  If there is evidence that prior to the task force he had a bias of believing in UFOs, this would be a serious contradiction to that important claim.
