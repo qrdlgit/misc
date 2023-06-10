@@ -26,11 +26,12 @@ I believe most presidents have been circumspect in their denials around this.  C
 If I am missing anyone here, let me know in issues.  I'll try to keep it updated as more voices show up.
 
 
-Folks not included because of concerns about credibility:
+Folks not included because of concerns about credibility or not strictly related but still interesting:
 | Name                  | Vouch   | Position                                                                                                                          | Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 |-----------------------|---------|-----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Luis Elizondo         | David/Claim | Former director of the now defunct Advanced Aerospace Threat Identification Program associated with the Pentagon UFO videos (Vouched by Harry Reid)            | [HuffPost](https://www.huffpost.com/entry/luis-elizondo-ufo-pentagon_n_5a388debe4b0860bf4aa9a9d)  [Wikipedia](https://en.wikipedia.org/wiki/Luis_Elizondo)                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | Garry Nolan     | Claim | Stanford Professor, on partial leave | [vice](https://www.vice.com/en/article/n7nzkq/stanford-professor-garry-nolan-analyzing-anomalous-materials-from-ufo-crashes) [stanford](https://profiles.stanford.edu/garry-nolan) |
+| safe aerospace | Related |  Advocacy group for pilots reporting UAPs | https://www.safeaerospace.org/ |
 
 Scenarios:
 
@@ -40,7 +41,7 @@ Scenarios:
    3. Some of his sources are purposely confabulating for reasons of
       1. Supporting their reputations or others in ufology
       2. trying to undermine trust in government, whether criminal conspiracy or just individual actions
-2. David strethed the truth around how credible his sources were or fabricated sources, for any number of reasons
+2. David stretched the truth around how credible his sources were or fabricated sources, for any number of reasons
    1. Trying to create a career for himself in the industry of ufology
    2. Trying to expose UAP programs that are everything he says they are, just not non human
    3. Try to undermine trust in government
